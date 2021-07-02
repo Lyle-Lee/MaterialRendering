@@ -21,3 +21,5 @@ This example used color with RGB of <a href="https://www.codecogs.com/eqnedit.ph
 
 where <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{\color{Emerald}&space;k_s}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;{\color{Emerald}&space;k_s}" title="{\color{Emerald} k_s}" /></a> is specular reflectivity and <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;{\color{Emerald}&space;n}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;{\color{Emerald}&space;n}" title="{\color{Emerald} n}" /></a> is related to shininess value of the highlight.
 
+<p align="middle"><img src="imgs/brick1.png" alt="whiteChalk" width=100>&nbsp<img src="imgs/brick2.png" alt="whiteChalk" width=100>&nbsp<img src="imgs/brick3.png" alt="whiteChalk" width=100></p>
+
