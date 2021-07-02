@@ -9,4 +9,4 @@ As the reflection of chalk should not include specular reflection, the fragment 
 $$
 R_{rgb} = C_{rgb}\left( I \cdot k_d \cdot \max\left( \frac{N \cdot -L}{|N||L|} , 0\right) + a \right)
 $$
-Where $C_{rgb}$ is object color, $I$ is light color, 
+Where \(C_{rgb}\) is object color, \(I\) is light color, 
